@@ -1,4 +1,4 @@
-## Hi Everyone 👋
+## Hi Everyone ⭐-_-💧
 
 <!--
 **freecsdon30/freecsdon30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZtcnkzaGZiYzE4MmFlaWxkemhnYWl4bGpjNG5xYTcxcHd5ejlxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FqAft2Wiat1cFGAEdW/giphy.gif"  />
 </div>
 
-# 💫 About Me:
+# 🍄 About Me:
 🔭 I’m currently working as a SDE - I
 <br>👯 I’m looking to collaborate on Generative AI, MLops, Devops, Springboot, golang & core system design projects
 <br>🌱 I love what I do 
