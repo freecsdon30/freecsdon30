@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🌟 Featured Projects
 - [**PulsarDB**](https://github.com/freecsdon30/pulsar-db) – A SQL based with a git like data management.
-- [**Photon**](https://github.com/freecsdon30/photon) – A distributed event streaming platgform.  
+- [**Photon**](https://github.com/freecsdon30/photon) – A distributed event streaming platform.  
 - [**Concord**](https://github.com/freecsdon30/concord) – A fault tolerant key-value store.
 - [**SynapseDB**](https://github.com/freecsdon30/synapse-db) – A vectorDB for high performance datasets.
 
