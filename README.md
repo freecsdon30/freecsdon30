@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 # 🍄 About Me:
 🔭 I’m currently working as a SDE - I
-<br>👯 I’m looking to collaborate on Generative AI, MLops, Devops, Springboot, golang & core system design projects
+<br>👯 I’m looking to collaborate on Devops, Springboot, golang & core system design projects
 <br>🌱 I love what I do 
 <br>💬 Ask me out on a hackathon date
-<br>⚡Learning faster and better!
 
 ### 🌟 Featured Projects
 - [**PulsarDB**](https://github.com/freecsdon30/pulsar-db) – A SQL based with a git like data management.
